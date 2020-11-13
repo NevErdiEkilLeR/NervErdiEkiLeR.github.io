@@ -1,11 +1,17 @@
 # main links
 main:
   - title: "HOME"
-    url: '/'
+    url: /
   - title: "About"
-    url: "About"
-  - title: "Content"
-    url: ""
+    url: /About/
+  - title: "Contents"
+    children:
+      - title: "Project"
+        url: /child-page-a1/
+      - title: "Education"
+        url: /child-page-a2/
+      - title: "Experience"
+        url: /child-page-a3/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
