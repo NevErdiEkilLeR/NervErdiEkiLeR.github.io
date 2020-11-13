@@ -89,12 +89,22 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# --- List of links in the navigation bar --- #
+
+navbar-links :
+  About : "About"
+  Contents :
+    - Project :
+    - Experience :
+    - Education :
+    - Etc :
+
+
 
 # Site Author
 author:
   name             : "Jaeyong LEE"
-  About            : "About"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/avatar-icon.png"
   bio              : "I am an **amazing** person."
   location         : "Busan in KOREA"
   email            :
