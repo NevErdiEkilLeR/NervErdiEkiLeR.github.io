@@ -93,6 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaeyong LEE"
+  About            : "About"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Busan in KOREA"
