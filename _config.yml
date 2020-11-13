@@ -89,17 +89,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-# --- List of links in the navigation bar --- #
-
-navbar-links :
-  About : "About"
-  Contents :
-    - Project :
-    - Experience :
-    - Education :
-    - Etc :
-
-
 
 # Site Author
 author:
