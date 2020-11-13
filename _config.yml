@@ -216,6 +216,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -272,6 +273,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: Pages
+    values:
+      layout : single
+      author_profile : true
