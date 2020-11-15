@@ -1,5 +1,5 @@
 ---
-layout : page
+permalink: /About/
 title  : About
 subtitle : Who is he?
 ---
