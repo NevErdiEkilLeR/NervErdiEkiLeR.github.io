@@ -96,7 +96,7 @@ author:
   avatar           : "./assets/images/avatar-icon.png"
   bio              : "I am an **amazing** person."
   location         : "Busan in KOREA"
-  email            :
+  email            : "ljygenius@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
