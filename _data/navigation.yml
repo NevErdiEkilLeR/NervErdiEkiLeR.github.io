@@ -7,11 +7,14 @@ main:
   - title: "Contents"
     children:
       - title: "Project"
-        url: /child-page-a1/
+        url: /Project/
       - title: "Education"
-        url: /child-page-a2/
+        url: /Education/
       - title: "Experience"
-        url: /child-page-a3/
+        url: /Experience/
+  - title: "Posts"
+    url: /Posts/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
