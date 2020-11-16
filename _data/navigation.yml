@@ -4,16 +4,16 @@ main:
     url: /
   - title: "About"
     url: /About/
+  - title: "Posts"
+    url: /Posts/  
   - title: "Contents"
     children:
-      - title: "Project"
-        url: /Project/
-      - title: "Education"
-        url: /Education/
-      - title: "Experience"
-        url: /Experience/
-  - title: "Posts"
-    url: /Posts/
+    - title: "Project"
+      url: /Project/
+    - title: "Education"
+      url: /Education/
+    - title: "Experience"
+      url: /Experience
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
