@@ -1,7 +1,7 @@
 ---
+title: "About"
 permalink: /About/
-title  : About
-subtitle : Who is he?
+layout: single
 ---
 
 Hello guys. My name is Jaeyong LEE.
