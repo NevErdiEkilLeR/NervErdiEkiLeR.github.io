@@ -97,6 +97,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/nev3rdi3ki1l3r"
+    - label: "Tstory"
+      icon: "fab fa-fw fa-caret-square-right"
+      url: "https://neverdiekiller.tistory.com"
 
 # Site Footer
 footer:
